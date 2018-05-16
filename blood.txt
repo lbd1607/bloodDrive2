@@ -1,0 +1,22 @@
+Pints Each Hour
+45
+34
+23
+54
+35
+23
+34
+Average Pints
+35.4285714286
+
+Pints Each Hour
+66
+55
+44
+33
+44
+55
+66
+Average Pints
+51.8571428571
+
